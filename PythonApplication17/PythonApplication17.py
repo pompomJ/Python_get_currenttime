@@ -1,6 +1,6 @@
 #現在時刻の取得
 
 import datetime
-now_time = datetime.datetime.now()
+current_time = datetime.datetime.now()
 
-print(now_time)
+print(current_time)
